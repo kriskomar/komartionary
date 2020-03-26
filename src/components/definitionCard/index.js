@@ -1,4 +1,4 @@
-import { Card } from 'material-ui/core';
+import { Card } from './node_modules/material-ui/core';
 
 export default (word) => {
     return (
