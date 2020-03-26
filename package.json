@@ -6,6 +6,7 @@
   "author": "Kris Komar <kriskomar@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@material-ui/core": "^4.9.7",
     "next": "^9.3.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"

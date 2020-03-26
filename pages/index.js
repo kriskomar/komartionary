@@ -1,5 +1,3 @@
-export default () => {
-    return (
-        <p>Hello Komartionary! :)</p>
-    );
-}
+import index from '../src/pages/index'
+
+export default index;
