@@ -12,6 +12,8 @@ export default ({ Component, pageProps }) => {
               name="viewport"
               content="minimum-scale=1, initial-scale=1, width=device-width"
             />
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+            <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
           </Head>
           <ThemeProvider theme={theme}>
             {/* CssBaseline kickstart an elegant, consistent, and simple baseline to build upon. */}
